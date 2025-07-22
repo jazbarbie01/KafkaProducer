@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EB7VFXbq1z4=",
+  "success": true,
+  "projectFilePath": "/app/KafkaProducer/KafkaProducer.csproj",
+  "expectedPackageFiles": [
+    "/home/jules/.nuget/packages/confluent.kafka/2.11.0/confluent.kafka.2.11.0.nupkg.sha512",
+    "/home/jules/.nuget/packages/librdkafka.redist/2.11.0/librdkafka.redist.2.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
